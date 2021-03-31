@@ -1,0 +1,81 @@
+#tabla_principal
+{
+	/*width: 800px;
+	//height: 600px;*/
+	margin: auto;
+}
+#encabezado{
+	width: 100%;
+	height: 100px;
+	background-color: green;
+	color: red;
+	font-size: 2em;
+	font-family: Arial,"Courier New";
+	vertical-align: top;
+	text-align: center;
+}
+#pie{
+	width: 100%;
+	height: 75px;
+	background-color: lightgreen;
+	color: brown;
+	font-size: 1.2em;
+	font-family: Arial,"Courier New";
+	vertical-align: top;
+	text-align: center;
+}
+#menu{
+	width: 150px;
+	height: 625px;
+	background-color: olive;
+	color: blue;
+	font-size: 16px;
+	font-family: Arial,"Courier New";
+	vertical-align: top;
+	text-align: center;
+}
+#contenido{
+	/*width: 450%;
+	height: 625px;*/
+	background-color: darkolivegreen;
+	color: yellow;
+	font-size: 14px;
+	font-family: Arial,"Courier New";
+	vertical-align: top;
+	text-align: center;
+}
+#tb_listado
+{
+	margin: auto;
+	background-color: blue;
+	color: yellow;
+	
+
+}
+#tabla_barra_arriba
+{
+	margin: auto;
+	width: 1355px;
+}
+#barra_abajo
+{
+	margin: auto;
+	vertical-align: top;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+#barra_arriba
+{
+	margin: auto;
+	
+	vertical-align: top;
+	text-align: right;
+	background-color: black;
+	color: white;
+}
+#tituloDeLaTabla
+{
+	margin: auto;
+	text-align: center;
+}
